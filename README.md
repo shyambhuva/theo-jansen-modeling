@@ -49,9 +49,9 @@ In this project:
 
 ## Mechanism Configuration
 
-### Initial Pose Animation
+### Model
 
-![Initial Pose](./jansen_mujoco.gif)
+![Initial Pose](./model.png)
 
 ---
 
@@ -74,11 +74,7 @@ These were some of the initial simulation attempts while building the mechanism 
 
 ## Prototype Attempt 1
 
-![Prototype 1](./Screenshot%20(154).png)
-
-## Prototype Attempt 2
-
-![Prototype 2](./Screenshot%20(155).png)
+![Prototype 1](./earlier_distorted_model.png)
 
 ---
 
